@@ -14,8 +14,14 @@
 
 2. Connect RP2040 to the LED
 
+- Use GPIO29 as the input of the circuit.
+
 <div align=center>
-<img src="https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/image/led_blink.gif" width="450">  
+<img src="https://user-images.githubusercontent.com/113971230/197077044-de2b0232-0753-49f7-bfb0-079f3cda41a2.png" width="450">  
+</div>
+
+<div align=center>
+<img src="https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/image/led_blink.gif" width="350">  
 </div>
 
 3. LED will be on/off controlled by the RP2040
