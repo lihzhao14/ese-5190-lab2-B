@@ -1,4 +1,4 @@
-# ese-5190-lab2-B
+# ese-5190-lab2B
 University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2  
 
     Lihong Zhao  
