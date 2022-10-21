@@ -23,8 +23,8 @@ After the second board gets the output of the first board as input, it makes an 
 | 1 | 1 | 1 |
 
 
-## GPIO used
-- Need five GPIO pins.
+## GPIO Pin Used
+- Five GPIO pins used.
   - Two as the output of the first board
   - Two as the input of the second board
   - One as the output of the second board
