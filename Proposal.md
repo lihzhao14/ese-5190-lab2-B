@@ -13,7 +13,7 @@ After the second board gets the output of the first board as input, it makes an 
 - If the output of the second board is high level voltage, the LED will be on.
 - If the output of the second board is low level voltage, the LED will be off.
 
-- Logic Table
+*Logic Table
 
 |InputA|InputB|Output|
 | :---: | :---: | :---: |
