@@ -1,6 +1,7 @@
 # Proposal
 
 Lihong Zhao worked with Xingjian Chen
+## [LED.gif](https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/Initialize_LED.md)
 
 ## Introduction
 We're trying to use two RP2040s to build a 2-input AND logic gate. 
