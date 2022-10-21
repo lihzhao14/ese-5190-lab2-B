@@ -33,4 +33,5 @@ After the second board gets the output of the first board as input, it makes an 
 - Two RP2040
 - Three LEDs
 - Three 360 Ohm
+- A Breadboard
 - Wires
