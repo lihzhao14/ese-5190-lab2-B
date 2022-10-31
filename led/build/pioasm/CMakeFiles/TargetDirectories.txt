@@ -1,0 +1,3 @@
+C:/Users/zlhgl/ese5190_lab2/pico/Downloads/led/build/pioasm/CMakeFiles/pioasm.dir
+C:/Users/zlhgl/ese5190_lab2/pico/Downloads/led/build/pioasm/CMakeFiles/edit_cache.dir
+C:/Users/zlhgl/ese5190_lab2/pico/Downloads/led/build/pioasm/CMakeFiles/rebuild_cache.dir
