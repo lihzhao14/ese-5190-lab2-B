@@ -7,3 +7,4 @@ University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2
     
 - [Initialize LED](https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/Initialize_LED.md)
 - [Proposal](https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/Proposal.md)
+- [Protoboard_demo](https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/protoboard_demo.md)
