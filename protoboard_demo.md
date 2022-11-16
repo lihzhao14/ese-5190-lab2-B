@@ -1,4 +1,4 @@
-## Breadboard wire connection
+## Circuit on Breadboard
 
 in1=1(Blue_LED on), in2=0(Green_LED off), then out=0(Red_LED off)
 
