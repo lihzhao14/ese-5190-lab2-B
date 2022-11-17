@@ -19,7 +19,7 @@ InputA=1(Blue_LED on), InputB=1(Green_LED on), then Output=0(Red_LED on)
 ## Demo on Breadboard
 
 <div align=center>
-<img src="https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/image/breadboard_demo.gif" width="550">  
+<img src="https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/image/breadboard_demo.gif" width="700">  
 </div>
 
 
@@ -40,7 +40,7 @@ InputA=1(Green_LED1 on), InputB=1(Green_LED2 on), then Output=0(Red_LED on)
 ## Demo on Protoboard
 
 <div align=center>
-<img src="https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/image/protoboard_demo.gif" width="550">  
+<img src="https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/image/protoboard_demo.gif" width="700">  
 </div>
 
 #### Logic Table
