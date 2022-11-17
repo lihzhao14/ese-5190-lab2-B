@@ -1,12 +1,12 @@
 ## Circuit on Breadboard
 
-in1=1(Blue_LED on), in2=0(Green_LED off), then out=0(Red_LED off)
+InputA=1(Blue_LED on), InputB=0(Green_LED off), then Output=0(Red_LED off)
 
 <div align=center>
 <img src="https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/image/1.jpg" width="450">  
 </div>
 
-in1=1(Blue_LED on), in2=1(Green_LED on), then out=0(Red_LED on)
+InputA=1(Blue_LED on), InputB=1(Green_LED on), then Output=0(Red_LED on)
 
 <div align=center>
 <img src="https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/image/2.jpg" width="450">  
@@ -25,7 +25,7 @@ in1=1(Blue_LED on), in2=1(Green_LED on), then out=0(Red_LED on)
 
 ## Circuit on Protoboard
 
-in1=1(Green_LED1 on), in2=1(Green_LED2 on), then out=0(Red_LED on)
+InputA=1(Green_LED1 on), InputB=1(Green_LED2 on), then Output=0(Red_LED on)
 
 <div align=center>
 <img src="https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/image/4.jpg" width="450">  
@@ -36,4 +36,19 @@ in1=1(Green_LED1 on), in2=1(Green_LED2 on), then out=0(Red_LED on)
 <div align=center>
 <img src="https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/image/protoboard_demo.gif" width="450">  
 </div>
+
+|InputA|InputB|Output|
+| :---: | :---: | :---: |
+| 0 | 0 | 0 |
+| 0 | 1 | 0 |
+| 1 | 0 | 0 |
+| 1 | 1 | 1 |
+
+|InputA|InputB|Output|
+| :---: | :---: | :---: |
+| Off | Off | Off |
+| Off | Green1 | Off |
+| Green2 | Off | Off |
+| Green2 | Green1 | Red |
+
 
