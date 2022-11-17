@@ -3,23 +3,23 @@
 InputA=1(Blue_LED on), InputB=0(Green_LED off), then Output=0(Red_LED off)
 
 <div align=center>
-<img src="https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/image/1.jpg" width="450">  
+<img src="https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/image/1.jpg" width="550">  
 </div>
 
 InputA=1(Blue_LED on), InputB=1(Green_LED on), then Output=0(Red_LED on)
 
 <div align=center>
-<img src="https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/image/2.jpg" width="450">  
+<img src="https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/image/2.jpg" width="550">  
 </div>
 
 <div align=center>
-<img src="https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/image/3.jpg" width="450">  
+<img src="https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/image/3.jpg" width="550">  
 </div>
 
 ## Demo on Breadboard
 
 <div align=center>
-<img src="https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/image/breadboard_demo.gif" width="450">  
+<img src="https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/image/breadboard_demo.gif" width="550">  
 </div>
 
 
@@ -28,19 +28,19 @@ InputA=1(Blue_LED on), InputB=1(Green_LED on), then Output=0(Red_LED on)
 ### Sorlding Guide
 
 <div align=center>
-<img src="https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/image/Sorlding_Guide.png" width="450">  
+<img src="https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/image/Sorlding_Guide.png" width="550">  
 </div>
 
 InputA=1(Green_LED1 on), InputB=1(Green_LED2 on), then Output=0(Red_LED on)
 
 <div align=center>
-<img src="https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/image/4.jpg" width="450">  
+<img src="https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/image/4.jpg" width="550">  
 </div>
 
 ## Demo on Protoboard
 
 <div align=center>
-<img src="https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/image/protoboard_demo.gif" width="450">  
+<img src="https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/image/protoboard_demo.gif" width="550">  
 </div>
 
 #### Logic Table
